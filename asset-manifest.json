@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/selvarammail/React_EShop_Project/static/css/main.f29e5b96.css",
-    "main.js": "/selvarammail/React_EShop_Project/static/js/main.b91a246c.js",
+    "main.js": "/selvarammail/React_EShop_Project/static/js/main.0456ee0c.js",
     "index.html": "/selvarammail/React_EShop_Project/index.html",
     "main.f29e5b96.css.map": "/selvarammail/React_EShop_Project/static/css/main.f29e5b96.css.map",
-    "main.b91a246c.js.map": "/selvarammail/React_EShop_Project/static/js/main.b91a246c.js.map"
+    "main.0456ee0c.js.map": "/selvarammail/React_EShop_Project/static/js/main.0456ee0c.js.map"
   },
   "entrypoints": [
     "static/css/main.f29e5b96.css",
-    "static/js/main.b91a246c.js"
+    "static/js/main.0456ee0c.js"
   ]
 }
